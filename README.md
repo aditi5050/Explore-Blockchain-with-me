@@ -6,7 +6,7 @@ Imagine a **giant group chat** 📱 where every message is permanent, everyone s
 That’s basically **Blockchain**:
 
 * A **decentralized, immutable, transparent digital ledger**
-* It records transactions in order, securely, across **a whole network of computers** 💻💻💻.
+* It records transactions in order, securely, across **a whole network of computers**.
 * Data is stored in “blocks” 📦 → each locked with cryptography → and linked together to form a **chain** ⛓️.
 * No one boss, no one server. Just **community power** 🌍.
 
