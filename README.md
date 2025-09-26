@@ -57,5 +57,29 @@ That’s basically **Blockchain**:
 
 👉 In short:
 **Blockchain = the internet’s group diary where receipts never vanish, no one cheats, and everyone agrees before anything gets added.**
+Exactly! 🔥 Let me break it down super easy:
 
 ---
+
+### 💡 Changing a Block on Blockchain
+
+* Each block is **linked to the previous one** using a cryptographic hash.
+* If you try to **change a block**, its hash changes → the next block sees that something is off.
+* But here’s the catch: the **ledger exists on thousands of computers (nodes)**.
+
+So to “change” a block:
+
+1. You’d have to **change that block on every single computer** at the same time.
+2. And also **recalculate all the hashes for all the following blocks**.
+3. And do this **faster than the network can notice** 👀.
+
+💀 Basically impossible. That’s why blockchain is **immutable** — once something is added, you can’t secretly edit it.
+
+---
+
+In short cutu:
+
+ **“Wanna hack a block? You gotta convince EVERYONE to agree at once… good luck, vo shayad nahi ho payega ”**
+
+
+
