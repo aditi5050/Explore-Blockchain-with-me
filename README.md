@@ -59,5 +59,3 @@ That’s basically **Blockchain**:
 **Blockchain = the internet’s group diary where receipts never vanish, no one cheats, and everyone agrees before anything gets added.**
 
 ---
-
-Want me to make this into a **super short TikTok-style script** too (like 30-second vibe)?
